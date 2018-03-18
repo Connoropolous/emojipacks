@@ -1,0 +1,95 @@
+title: metacodes
+emojis:
+  - name: mm_catalyst
+    src: bp_catalyst.png
+  - name: mm_closed
+    src: bp_closedissue.png
+  - name: mm_process
+    src: bp_process.png
+  - name: mm_future_dev
+    src: bp_futuredev.png
+  - name: mm_group
+    src: bp_group.png
+  - name: mm_implication
+    src: bp_implication.png
+  - name: mm_insight
+    src: bp_insight.png
+  - name: mm_intention
+    src: bp_intention.png
+  - name: mm_knowledge
+    src: bp_knowledge.png
+  - name: mm_location
+    src: bp_location.png
+  - name: mm_need
+    src: bp_need.png
+  - name: mm_open_issue
+    src: bp_openissue.png
+  - name: mm_opportunity
+    src: bp_opportunity.png
+  - name: mm_person
+    src: bp_person.png
+  - name: mm_platform
+    src: bp_platform.png
+  - name: mm_problem
+    src: bp_problem.png
+  - name: mm_resource
+    src: bp_resource.png
+  - name: mm_role
+    src: bp_role.png
+  - name: mm_task
+    src: bp_task.png
+  - name: mm_trajectory
+    src: bp_trajectory.png
+  - name: mm_argument
+    src: gen_argument.png
+  - name: mm_con
+    src: gen_con.png
+  - name: mm_subject
+    src: gen_subject.png
+  - name: mm_decision
+    src: gen_decision.png
+  - name: mm_event
+    src: gen_event.png
+  - name: mm_example
+    src: gen_example.png
+  - name: mm_experience
+    src: gen_experience.png
+  - name: mm_feedback
+    src: gen_feedback.png
+  - name: mm_aim
+    src: gen_aim.png
+  - name: mm_good_practice
+    src: gen_goodpractice.png
+  - name: mm_idea
+    src: gen_idea.png
+  - name: mm_list
+    src: gen_list.png
+  - name: mm_media
+    src: gen_media.png
+  - name: mm_metamap
+    src: gen_metamap.png
+  - name: mm_model
+    src: gen_model.png
+  - name: mm_note
+    src: gen_note.png
+  - name: mm_perspective
+    src: gen_perspective.png
+  - name: mm_pro
+    src: gen_pro.png
+  - name: mm_project
+    src: gen_project.png
+  - name: mm_question
+    src: gen_question.png
+  - name: mm_reference
+    src: gen_reference.png
+  - name: mm_research
+    src: gen_research.png
+  - name: mm_status
+    src: gen_status.png
+  - name: mm_story
+    src: gen_story.png
+  - name: mm_tool
+    src: gen_tool.png
+  - name: mm_wildcard
+    src: gen_wildcard.png
+
